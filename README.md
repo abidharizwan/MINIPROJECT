@@ -8,6 +8,8 @@ using OpenCV for doing all the image processing operations and for classificatio
 address a video-based techniques for vehicle recognition and counting based on OpenCV technologies.
 The proposed technique uses the background subtraction method to discover forefront objects in video sequel. Several OpenCV techniques, including of an thresholding,
 the adaptive morphology operations, and hole filling are later applied in the series of detecting moving vehicles more accurately. At last, vehicle counting is done by utilizing virtual identification zones.
+
+
 #ABSTRACT
 
 Vehicle detection and counting is very important in traffic monitoring, toll collection, military applications etc. 
