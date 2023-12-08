@@ -3,6 +3,8 @@ Mini project
 VEHICLE DETECTION AND COUNTING USING OPENCV(Open Source Computer Vision Library)
 
 #OVERVIEW
+
+
 vehicle counting and detection and counting system. It will be enough to work for both the images or the video, for the same,
 using OpenCV for doing all the image processing operations and for classification the Vehicles haar cascade classifier for detecting and counting Vehicles.
 address a video-based techniques for vehicle recognition and counting based on OpenCV technologies.
